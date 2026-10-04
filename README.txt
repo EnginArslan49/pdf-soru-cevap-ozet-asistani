@@ -4,6 +4,8 @@
   İletişim: arslanengin3175@gmail.com
 ========================================
 
+UYGULAMANIN AYRINTILI ANLATIMLI REPO DEPOSU 🔗: https://github.com/EnginArslan49/pdf-soru-cevap-asistani
+
    📌 PROJENİN AMACI
 Bu uygulama, kullanıcıların PDF dosyalarını yüklemesine, içeriğini analiz etmesine ve PDF hakkında sorular sormasına olanak tanır. Tüm cevaplar yalnızca yüklenen PDF içeriğine dayanır, model bilgi uydurmaz.
 
